@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <title>My Site</title>
+</header>
+<body background color="blue">
+    <h1>
+        <marquee direction="right"> 
+        <font color="blue">YOU ARE WELCOME</font> 
+        </marquee>
+    </h1>
+    <h1>
+        <div id="header">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="biography.html">Biography</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="Contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </h1>
+   
+    
+
+</body>
+
+</html> 
